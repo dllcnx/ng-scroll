@@ -1,0 +1,24 @@
+# IDE / Editor
+.vscode
+.idea
+# Node generated files
+/node_modules
+npm-debug.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Angular
+*.ngfactory.ts
+*.ngsummary.json
+*.metadata.json
+/compiled
+
+# Ignored files
+*.js
+*.map
+*.d.ts
+
+#yarn
+yarn.lock
